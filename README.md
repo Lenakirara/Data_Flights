@@ -65,7 +65,7 @@ Nesse projeto você vai elaborar _queries_ em `mongo` para:
 1. Clone o repositório
   * `git clone git@github.com:Lenakirara/Data_Flights.git`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-011-mongodb-dataflights`
+    * `cd Data_Flights`
 
 2. Crie uma branch a partir da branch `master`
   * Verifique que você está na branch `master`
